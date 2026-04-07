@@ -1,0 +1,8 @@
+
+.vs/
+bin/
+obj/
+
+/SeminarDemo/products.db
+/SeminarDemo/products.db-shm
+/SeminarDemo/products.db-wal
