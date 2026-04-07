@@ -1,0 +1,39 @@
+name: N-Layer CI Pipeline
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v3
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: '10.0.x' # Updated to 10.0.x to match your project's .NET 10 target
+
+    - name: Restore dependencies
+      run: dotnet restore
+
+    - name: Build
+      run: dotnet build --no-restore
+
+    - name: Run Tests and Generate XML Report
+      # The crucial step for your research. 
+      # We use the xunit logger to generate a clean XML file.
+      run: dotnet test --no-build --verbosity normal --logger:"xunit;LogFileName=test_results.xml" --results-directory ./TestResults
+
+    - name: Upload Test Results Artifact
+      # This step saves the XML file so you can download it from the GitHub UI
+      uses: actions/upload-artifact@v4
+      if: always() # Ensure it uploads even if tests fail
+      with:
+        name: xunit-test-report
+        path: ./TestResults/test_results.xml
