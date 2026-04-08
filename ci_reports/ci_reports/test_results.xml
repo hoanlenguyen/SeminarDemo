@@ -1,0 +1,22 @@
+<assemblies timestamp="04/07/2026 23:54:44">
+  <assembly name="/home/runner/work/SeminarDemo/SeminarDemo/SeminarDemo.Tests/bin/Debug/net10.0/SeminarDemo.Tests.dll" run-date="2026-04-07" run-time="23:54:44" total="5" passed="5" failed="0" skipped="0" time="1.887" errors="0">
+    <errors />
+    <collection total="5" passed="5" failed="0" skipped="0" name="Test collection for SeminarDemo.Tests.ProductRepositoryTests" time="1.135">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts" time="1.0064590" result="Pass">
+        <traits />
+      </test>
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct" time="0.0850358" result="Pass">
+        <traits />
+      </test>
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct" time="0.0386083" result="Pass">
+        <traits />
+      </test>
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct" time="0.0039098" result="Pass">
+        <traits />
+      </test>
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct" time="0.0011846" result="Pass">
+        <traits />
+      </test>
+    </collection>
+  </assembly>
+</assemblies>

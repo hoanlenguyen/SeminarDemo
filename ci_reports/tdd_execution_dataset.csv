@@ -1,0 +1,6 @@
+Run_Source,Test_Name,Test_Type,Execution_Time_Seconds,Execution_Time_Milliseconds,Result
+test_results.xml,SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts,Standard_Logic,1.006459,1006.459,Pass
+test_results.xml,SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct,Standard_Logic,0.0850358,85.0358,Pass
+test_results.xml,SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct,Standard_Logic,0.0386083,38.6083,Pass
+test_results.xml,SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct,Standard_Logic,0.0039098,3.9097999999999997,Pass
+test_results.xml,SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct,Standard_Logic,0.0011846,1.1846,Pass

@@ -7,8 +7,17 @@ namespace SeminarDemo.Tests;
 
 public class ProductRepositoryTests
 {
-    [Fact]
-    public void Add_ShouldInsertNewProduct()
+    public static IEnumerable<object[]> GetSimulationData()
+    {
+        for (int i = 1; i <= 20; i++)
+        {
+            yield return new object[] { i };
+        }
+    }
+
+    [Theory]
+    [MemberData(nameof(GetSimulationData))]
+    public void Add_ShouldInsertNewProduct(int runNumber)
     {
         // Arrange
         using var context = TestRepositoryFactory.CreateDbContext();
@@ -31,8 +40,9 @@ public class ProductRepositoryTests
         Assert.Equal(299.99m, insertedProduct.Price);
     }
 
-    [Fact]
-    public void Update_ShouldModifyExistingProduct()
+    [Theory]
+    [MemberData(nameof(GetSimulationData))]
+    public void Update_ShouldModifyExistingProduct(int runNumber)
     {
         // Arrange
         using var context = TestRepositoryFactory.CreateDbContext();
@@ -58,8 +68,9 @@ public class ProductRepositoryTests
         Assert.Equal(150m, updatedProduct.Price);
     }
 
-    [Fact]
-    public void Delete_ShouldRemoveExistingProduct()
+    [Theory]
+    [MemberData(nameof(GetSimulationData))]
+    public void Delete_ShouldRemoveExistingProduct(int runNumber)
     {
         // Arrange
         using var context = TestRepositoryFactory.CreateDbContext();
@@ -79,8 +90,9 @@ public class ProductRepositoryTests
         Assert.Null(deletedProduct);
     }
 
-    [Fact]
-    public void GetAll_ShouldReturnAllProducts()
+    [Theory]
+    [MemberData(nameof(GetSimulationData))]
+    public void GetAll_ShouldReturnAllProducts(int runNumber)
     {
         // Arrange
         using var context = TestRepositoryFactory.CreateDbContext();
@@ -98,8 +110,9 @@ public class ProductRepositoryTests
         Assert.Contains(result, p => p.Name == "Product 2");
     }
 
-    [Fact]
-    public void GetById_ShouldReturnCorrectProduct()
+    [Theory]
+    [MemberData(nameof(GetSimulationData))]
+    public void GetById_ShouldReturnCorrectProduct(int runNumber)
     {
         // Arrange
         using var context = TestRepositoryFactory.CreateDbContext();
