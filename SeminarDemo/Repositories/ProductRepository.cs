@@ -1,3 +1,4 @@
+using Microsoft.EntityFrameworkCore;
 using SeminarDemo.Data;
 using SeminarDemo.Models;
 
@@ -21,9 +22,9 @@ namespace SeminarDemo.Repositories
             _context = context;
         }
 
-        public IEnumerable<Product> GetAll() => _context.Products.ToList();
+        public IEnumerable<Product> GetAll() => _context.Products.Include(p => p.Brand).ToList();
 
-        public Product? GetById(int id) => _context.Products.FirstOrDefault(p => p.Id == id);
+        public Product? GetById(int id) => _context.Products.Include(p => p.Brand).FirstOrDefault(p => p.Id == id);
 
         public void Add(Product product)
         {
