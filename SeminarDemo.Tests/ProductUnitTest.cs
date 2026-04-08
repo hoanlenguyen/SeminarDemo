@@ -7,7 +7,7 @@ namespace SeminarDemo.Tests;
 
 public class ProductRepositoryTests
 {
-    private static int _runCounter = 100;
+    private static int _runCounter = 10000;
     public static IEnumerable<object[]> GetSimulationData()
     {
         for (int i = 1; i <= _runCounter / 5; i++)

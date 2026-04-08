@@ -1,305 +1,305 @@
-<assemblies timestamp="04/08/2026 00:42:39">
-  <assembly name="/home/runner/work/SeminarDemo/SeminarDemo/SeminarDemo.Tests/bin/Debug/net10.0/SeminarDemo.Tests.dll" run-date="2026-04-08" run-time="00:42:39" total="100" passed="100" failed="0" skipped="0" time="1.529" errors="0">
+<assemblies timestamp="04/08/2026 01:52:18">
+  <assembly name="/home/runner/work/SeminarDemo/SeminarDemo/SeminarDemo.Tests/bin/Debug/net10.0/SeminarDemo.Tests.dll" run-date="2026-04-08" run-time="01:52:18" total="100" passed="100" failed="0" skipped="0" time="1.846" errors="0">
     <errors />
-    <collection total="100" passed="100" failed="0" skipped="0" name="Test collection for SeminarDemo.Tests.ProductRepositoryTests" time="0.730">
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 4)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 4)" time="0.6131237" result="Pass">
+    <collection total="100" passed="100" failed="0" skipped="0" name="Test collection for SeminarDemo.Tests.ProductRepositoryTests" time="1.024">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 4)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 4)" time="0.9018608" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 9)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 9)" time="0.0209203" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 9)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 9)" time="0.0169919" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 12)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 12)" time="0.0386233" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 12)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 12)" time="0.0374276" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 11)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 11)" time="0.0006057" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 11)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 11)" time="0.0006112" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 16)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 16)" time="0.0005955" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 16)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 16)" time="0.0005932" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 18)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 18)" time="0.0005326" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 18)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 18)" time="0.0005639" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 13)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 13)" time="0.0005844" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 13)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 13)" time="0.0005904" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 17)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 17)" time="0.0005674" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 17)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 17)" time="0.0005720" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 8)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 8)" time="0.0005389" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 8)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 8)" time="0.0005888" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 7)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 7)" time="0.0006839" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 7)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 7)" time="0.0006065" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 15)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 15)" time="0.0006639" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 15)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 15)" time="0.0005501" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 1)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 1)" time="0.0006200" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 1)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 1)" time="0.0005865" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 6)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 6)" time="0.0007048" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 6)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 6)" time="0.0005486" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 20)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 20)" time="0.0006629" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 20)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 20)" time="0.0006305" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 19)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 19)" time="0.0006272" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 19)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 19)" time="0.0006885" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 14)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 14)" time="0.0006353" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 14)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 14)" time="0.0006426" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 2)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 2)" time="0.0006640" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 2)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 2)" time="0.0005825" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 3)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 3)" time="0.0006710" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 3)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 3)" time="0.0005862" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 10)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 10)" time="0.0006551" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 10)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 10)" time="0.0005639" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 5)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 5)" time="0.0006829" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Delete_ShouldRemoveExistingProduct(runNumber: 5)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Delete_ShouldRemoveExistingProduct(runNumber: 5)" time="0.0005839" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 11)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 11)" time="0.0074292" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 11)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 11)" time="0.0048447" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 3)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 3)" time="0.0009003" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 3)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 3)" time="0.0008078" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 17)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 17)" time="0.0005788" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 17)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 17)" time="0.0005591" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 10)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 10)" time="0.0006286" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 10)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 10)" time="0.0005501" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 2)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 2)" time="0.0006478" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 2)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 2)" time="0.0006089" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 19)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 19)" time="0.0006271" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 19)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 19)" time="0.0005787" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 12)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 12)" time="0.0006327" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 12)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 12)" time="0.0005465" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 5)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 5)" time="0.0006928" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 5)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 5)" time="0.0005317" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 14)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 14)" time="0.0005964" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 14)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 14)" time="0.0005788" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 13)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 13)" time="0.0006604" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 13)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 13)" time="0.0005391" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 18)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 18)" time="0.0006377" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 18)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 18)" time="0.0005093" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 20)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 20)" time="0.0005960" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 20)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 20)" time="0.0005403" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 8)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 8)" time="0.0006671" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 8)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 8)" time="0.0005100" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 15)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 15)" time="0.0006602" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 15)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 15)" time="0.0005496" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 9)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 9)" time="0.0006424" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 9)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 9)" time="0.0005082" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 4)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 4)" time="0.0005918" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 4)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 4)" time="0.0005662" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 7)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 7)" time="0.0006383" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 7)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 7)" time="0.0005440" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 16)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 16)" time="0.0006155" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 16)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 16)" time="0.0005100" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 6)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 6)" time="0.0006485" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 6)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 6)" time="0.0005721" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 1)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 1)" time="0.0006363" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Update_ShouldModifyExistingProduct(runNumber: 1)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Update_ShouldModifyExistingProduct(runNumber: 1)" time="0.0005234" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 14)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 14)" time="0.0049531" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 14)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 14)" time="0.0053215" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 10)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 10)" time="0.0005849" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 10)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 10)" time="0.0006551" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 18)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 18)" time="0.0003386" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 18)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 18)" time="0.0004642" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 15)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 15)" time="0.0003343" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 15)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 15)" time="0.0004118" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 17)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 17)" time="0.0003645" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 17)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 17)" time="0.0004709" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 6)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 6)" time="0.0003149" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 6)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 6)" time="0.0004289" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 12)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 12)" time="0.0003297" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 12)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 12)" time="0.0004680" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 2)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 2)" time="0.0003683" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 2)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 2)" time="0.0004221" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 1)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 1)" time="0.0003277" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 1)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 1)" time="0.0004455" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 19)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 19)" time="0.0005174" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 19)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 19)" time="0.0004031" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 3)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 3)" time="0.0004674" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 3)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 3)" time="0.0004301" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 16)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 16)" time="0.0003787" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 16)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 16)" time="0.0004264" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 11)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 11)" time="0.0003308" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 11)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 11)" time="0.0004154" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 13)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 13)" time="0.0003163" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 13)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 13)" time="0.0004370" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 9)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 9)" time="0.0003571" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 9)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 9)" time="0.0004070" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 20)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 20)" time="0.0003137" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 20)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 20)" time="0.0004278" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 8)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 8)" time="0.0003164" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 8)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 8)" time="0.0004111" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 5)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 5)" time="0.0003740" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 5)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 5)" time="0.0004472" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 7)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 7)" time="0.0003247" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 7)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 7)" time="0.0003983" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 4)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 4)" time="0.0003210" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetAll_ShouldReturnAllProducts(runNumber: 4)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetAll_ShouldReturnAllProducts(runNumber: 4)" time="0.0004349" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 18)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 18)" time="0.0012840" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 18)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 18)" time="0.0013008" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 5)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 5)" time="0.0005507" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 5)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 5)" time="0.0006518" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 19)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 19)" time="0.0003989" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 19)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 19)" time="0.0004428" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 8)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 8)" time="0.0003624" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 8)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 8)" time="0.0004796" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 2)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 2)" time="0.0003879" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 2)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 2)" time="0.0004426" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 13)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 13)" time="0.0003460" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 13)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 13)" time="0.0004783" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 14)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 14)" time="0.0003509" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 14)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 14)" time="0.0004406" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 1)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 1)" time="0.0003875" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 1)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 1)" time="0.0004592" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 4)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 4)" time="0.0003516" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 4)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 4)" time="0.0004295" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 11)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 11)" time="0.0003819" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 11)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 11)" time="0.0004269" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 6)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 6)" time="0.0003431" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 6)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 6)" time="0.0004520" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 17)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 17)" time="0.0003523" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 17)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 17)" time="0.0004340" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 3)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 3)" time="0.0003820" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 3)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 3)" time="0.0004755" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 9)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 9)" time="0.0003384" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 9)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 9)" time="0.0004383" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 12)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 12)" time="0.0003718" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 12)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 12)" time="0.0004805" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 10)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 10)" time="0.0003451" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 10)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 10)" time="0.0004303" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 7)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 7)" time="0.0003404" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 7)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 7)" time="0.0004680" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 15)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 15)" time="0.0003654" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 15)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 15)" time="0.0004288" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 20)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 20)" time="0.0003378" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 20)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 20)" time="0.0004574" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 16)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 16)" time="0.0003473" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.Add_ShouldInsertNewProduct(runNumber: 16)" type="SeminarDemo.Tests.ProductRepositoryTests" method="Add_ShouldInsertNewProduct(runNumber: 16)" time="0.0004300" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 14)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 14)" time="0.0005191" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 14)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 14)" time="0.0005978" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 15)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 15)" time="0.0005114" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 15)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 15)" time="0.0005224" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 9)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 9)" time="0.0003257" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 9)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 9)" time="0.0003853" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 20)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 20)" time="0.0003261" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 20)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 20)" time="0.0003738" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 16)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 16)" time="0.0003681" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 16)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 16)" time="0.0004003" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 17)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 17)" time="0.0003236" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 17)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 17)" time="0.0003689" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 8)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 8)" time="0.0003204" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 8)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 8)" time="0.0003993" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 18)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 18)" time="0.0003512" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 18)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 18)" time="0.0003706" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 19)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 19)" time="0.0003192" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 19)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 19)" time="0.0003699" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 7)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 7)" time="0.0003578" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 7)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 7)" time="0.0099136" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 5)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 5)" time="0.0003289" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 5)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 5)" time="0.0005485" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 13)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 13)" time="0.0003226" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 13)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 13)" time="0.0003936" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 2)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 2)" time="0.0003698" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 2)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 2)" time="0.0004058" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 1)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 1)" time="0.0003190" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 1)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 1)" time="0.0003830" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 6)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 6)" time="0.0003287" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 6)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 6)" time="0.0005167" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 11)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 11)" time="0.0003564" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 11)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 11)" time="0.0005316" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 3)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 3)" time="0.0003203" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 3)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 3)" time="0.0005486" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 12)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 12)" time="0.0003285" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 12)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 12)" time="0.0005307" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 4)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 4)" time="0.0003482" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 4)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 4)" time="0.0005205" result="Pass">
         <traits />
       </test>
-      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 10)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 10)" time="0.0003328" result="Pass">
+      <test name="SeminarDemo.Tests.ProductRepositoryTests.GetById_ShouldReturnCorrectProduct(runNumber: 10)" type="SeminarDemo.Tests.ProductRepositoryTests" method="GetById_ShouldReturnCorrectProduct(runNumber: 10)" time="0.0005726" result="Pass">
         <traits />
       </test>
     </collection>
