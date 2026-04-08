@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="../SeminarDemo.Tests/SeminarDemo.Tests.csproj" />
-  <Project Path="SeminarDemo.csproj" />
-</Solution>

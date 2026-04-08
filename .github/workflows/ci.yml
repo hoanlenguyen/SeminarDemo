@@ -20,15 +20,15 @@ jobs:
         dotnet-version: '10.0.x' # Updated to 10.0.x to match your project's .NET 10 target
 
     - name: Restore dependencies
-      run: dotnet restore SeminarDemo.Tests/SeminarDemo.Tests.csproj
+      run: dotnet restore
 
     - name: Build
-      run: dotnet build SeminarDemo.Tests/SeminarDemo.Tests.csproj --no-restore
+      run: dotnet build --no-restore
 
     - name: Run Tests and Generate XML Report
       # The crucial step for your research. 
       # We use the xunit logger to generate a clean XML file.
-      run: dotnet test SeminarDemo.Tests/SeminarDemo.Tests.csproj --no-build --verbosity normal --logger:"xunit;LogFileName=test_results.xml" --results-directory ./TestResults
+      run: dotnet test --no-build --verbosity normal --logger:"xunit;LogFileName=test_results.xml" --results-directory ./TestResults
 
     - name: Upload Test Results Artifact
       # This step saves the XML file so you can download it from the GitHub UI
