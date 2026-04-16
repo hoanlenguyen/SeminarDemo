@@ -14,7 +14,6 @@ public static class TestRepositoryFactory
             .Options;
 
         var context = new AppDbContext(options);
-        context.Database.EnsureDeleted();
         return context;
     }
 

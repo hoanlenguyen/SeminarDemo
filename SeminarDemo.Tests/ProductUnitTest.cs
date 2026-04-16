@@ -1,4 +1,8 @@
-﻿using SeminarDemo.Models;
+﻿// xUnit1026: runNumber is intentionally unused in test bodies — it exists solely to parameterize
+// execution count for statistical data collection. See GetSimulationData() for details.
+#pragma warning disable xUnit1026
+
+using SeminarDemo.Models;
 using SeminarDemo.Repositories;
 using SeminarDemo.Data;
 using Microsoft.EntityFrameworkCore;
@@ -7,6 +11,8 @@ namespace SeminarDemo.Tests;
 
 public class ProductRepositoryTests
 {
+    // _runCounter controls how many total test executions are generated for statistical analysis.
+    // Dividing by 5 distributes runs evenly across the 5 test methods (2000 each = 10000 total).
     private static int _runCounter = 10000;
     public static IEnumerable<object[]> GetSimulationData()
     {
@@ -18,6 +24,7 @@ public class ProductRepositoryTests
 
     [Theory]
     [MemberData(nameof(GetSimulationData))]
+    // runNumber is only used by xUnit to generate distinct test cases; it does not affect test logic.
     public void Add_ShouldInsertNewProduct(int runNumber)
     {
         // Arrange
