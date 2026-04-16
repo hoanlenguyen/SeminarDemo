@@ -10,7 +10,7 @@ using SeminarDemo.Services;
 namespace SeminarDemo.Tests;
 
 // These tests cover the Application (Service) layer using mock objects.
-// Unlike ProductRepositoryTests (which use EF Core InMemoryDatabase), here IProductRepository
+// Unlike StandardUnitTests (which use EF Core InMemoryDatabase), here IProductRepository
 // is replaced by a Moq mock, isolating ProductService from all infrastructure dependencies.
 // This demonstrates the "mocking approach" discussed in Spadini et al. (2019).
 public class MockUnitTests
