@@ -7,3 +7,5 @@ obj/
 /SeminarDemo/products.db-shm
 /SeminarDemo/products.db-wal
 /github_reports/test_results.xml
+/.claude/settings.local.json
+/github_reports/tdd_execution_dataset.csv
