@@ -80,7 +80,7 @@ public class StandardUnitTests
     [MemberData(nameof(GetSimulationData))]
     public void Delete_ShouldRemoveExistingProduct(int runNumber)
     {
-        // Arrange
+        // Arrange bb
         using var context = RepositoriesFactory.CreateDbContext();
         var repository = RepositoriesFactory.CreateProductRepository(context);
 
